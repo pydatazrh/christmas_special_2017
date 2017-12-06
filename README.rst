@@ -4,7 +4,7 @@ PyData Zurich meetup Blockchain
 
 This is a basic implementation of the **Build your own Blockchain** 🎄 PyData Zurich 🎄 Xmas special.
 
-The app is deployed on Heroku an accessible `here <https://blockchain-pydatazrh.herokuapp.com/#/default`_.
+The app is deployed on Heroku an accessible `here <https://blockchain-pydatazrh.herokuapp.com/#/default>`_ .
 
 The code is mainly derived from this `repository <https://github.com/dvf/blockchain>`_.
 
