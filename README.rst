@@ -15,6 +15,18 @@ The app is deployed on Heroku an accessible:
 .. image:: https://img.shields.io/badge/Heroku-blockchain_pydatazrh-orange.svg?style=flat
         :target: https://blockchain-pydatazrh.herokuapp.com/#/default
 
+---------
+Resources
+---------
+
+- `Slides <https://docs.google.com/presentation/d/1GaoGagHTQYcABOVAgY40T1SVCzFKpH6H_4T8jVZlnsU/edit#slide=id.p>`_
+- Notebooks
+    - `01-hash-functions <https://docs.google.com/presentation/d/1GaoGagHTQYcABOVAgY40T1SVCzFKpH6H_4T8jVZlnsU/edit#slide=id.p>`_
+    - `02-transaction-list <https://docs.google.com/presentation/d/1GaoGagHTQYcABOVAgY40T1SVCzFKpH6H_4T8jVZlnsU/edit#slide=id.p>`_
+    - `03-proof-of-work <https://docs.google.com/presentation/d/1GaoGagHTQYcABOVAgY40T1SVCzFKpH6H_4T8jVZlnsU/edit#slide=id.p>`_
+    - `04-blocks-and-blockchain <https://docs.google.com/presentation/d/1GaoGagHTQYcABOVAgY40T1SVCzFKpH6H_4T8jVZlnsU/edit#slide=id.p>`_
+
+
 
 ------
 Local
