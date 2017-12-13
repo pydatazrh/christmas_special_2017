@@ -6,6 +6,11 @@ This is a basic implementation of the **Build your own Blockchain** 🎄 PyData 
 
 The code is mainly derived from this `repository <https://github.com/dvf/blockchain>`_.
 
+Click the badge to run the notebooks from your browser:
+
+.. image:: https://mybinder.org/badge.svg
+  :target: https://mybinder.org/v2/gh/pydatazrh/christmas_special_2017/master?filepath=notebooks
+
 The app is deployed on Heroku an accessible `here <https://blockchain-pydatazrh.herokuapp.com/#/default>`_ .
 
 
