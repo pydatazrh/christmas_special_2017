@@ -22,7 +22,7 @@ Resources
 - `Slides <https://docs.google.com/presentation/d/1GaoGagHTQYcABOVAgY40T1SVCzFKpH6H_4T8jVZlnsU/edit#slide=id.p>`_
 - Notebooks
     - `Hash functions <https://mybinder.org/v2/gh/pydatazrh/christmas_special_2017/master?filepath=notebooks/01-hash-functions.ipynb>`_
-    - `Transaction list <https://mybinder.org/v2/gh/pydatazrh/christmas_special_2017/master?filepath=notebooks/02-transaction-list>`_
+    - `Transaction list <https://mybinder.org/v2/gh/pydatazrh/christmas_special_2017/master?filepath=notebooks/02-transaction-list.ipynb>`_
     - `Proof of work <https://mybinder.org/v2/gh/pydatazrh/christmas_special_2017/master?filepath=notebooks/03-proof-of-work.ipynb>`_
     - `Blocks and blockchain <https://mybinder.org/v2/gh/pydatazrh/christmas_special_2017/master?filepath=notebooks/04-blocks-and-blockchain.ipynb>`_
 
