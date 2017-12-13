@@ -21,11 +21,10 @@ Resources
 
 - `Slides <https://docs.google.com/presentation/d/1GaoGagHTQYcABOVAgY40T1SVCzFKpH6H_4T8jVZlnsU/edit#slide=id.p>`_
 - Notebooks
-    - `01-hash-functions <https://docs.google.com/presentation/d/1GaoGagHTQYcABOVAgY40T1SVCzFKpH6H_4T8jVZlnsU/edit#slide=id.p>`_
-    - `02-transaction-list <https://docs.google.com/presentation/d/1GaoGagHTQYcABOVAgY40T1SVCzFKpH6H_4T8jVZlnsU/edit#slide=id.p>`_
-    - `03-proof-of-work <https://docs.google.com/presentation/d/1GaoGagHTQYcABOVAgY40T1SVCzFKpH6H_4T8jVZlnsU/edit#slide=id.p>`_
-    - `04-blocks-and-blockchain <https://docs.google.com/presentation/d/1GaoGagHTQYcABOVAgY40T1SVCzFKpH6H_4T8jVZlnsU/edit#slide=id.p>`_
-
+    - `Hash functions <https://mybinder.org/v2/gh/pydatazrh/christmas_special_2017/master?filepath=notebooks/01-hash-functions.ipynb>`_
+    - `Transaction list <https://mybinder.org/v2/gh/pydatazrh/christmas_special_2017/master?filepath=notebooks/02-transaction-list>`_
+    - `Proof of work <https://mybinder.org/v2/gh/pydatazrh/christmas_special_2017/master?filepath=notebooks/03-proof-of-work.ipynb>`_
+    - `Blocks and blockchain <https://mybinder.org/v2/gh/pydatazrh/christmas_special_2017/master?filepath=notebooks/04-blocks-and-blockchain.ipynb>`_
 
 
 ------
