@@ -12,7 +12,7 @@ Click the badge to run the notebooks from your browser:
 The app is deployed on Heroku an accessible:
 
 
-.. image:: http://img.shields.io/badge/Heroku-orange.svg?style=flat
+.. image:: https://img.shields.io/badge/Heroku-blockchain_pydatazrh-orange.svg?style=flat
         :target: https://blockchain-pydatazrh.herokuapp.com/#/default
 
 
